@@ -70,6 +70,7 @@ pub mod query_as;
 pub mod query_builder;
 pub mod query_scalar;
 pub mod row;
+pub mod testing;
 pub mod type_info;
 pub mod value;
 
